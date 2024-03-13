@@ -9,7 +9,7 @@ env:
   LOCATION: uksouth
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 0bc00411-8a3d-4545-997a-d591bed09596
-  WEBAPP-NAME: eshoponweb-webapp-bjss-az-training-lb
+  WEBAPP-NAME: eshoponweb-webapp-bjss-az
 
 
 jobs:
